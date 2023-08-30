@@ -8,3 +8,5 @@ If the number is correct, their score will increase by 10 and If the number is i
 After Clicking the number hit will change automatically. 
 
 Happy Gaming!
+
+Thanks to Sheriyans Coding School!
